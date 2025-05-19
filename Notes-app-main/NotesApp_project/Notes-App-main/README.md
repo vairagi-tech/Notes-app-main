@@ -4,6 +4,13 @@
 
 This project is a full-stack Notes Application with a robust, scalable test automation framework. The framework is designed to ensure high-quality releases by automating API, UI, and mobile testing, and is fully integrated with CI/CD pipelines.
 
+## Live Demo
+
+The application is live at the following link:
+
+[https://notes-app-jpyr.vercel.app/](https://notes-app-jpyr.vercel.app/)
+
+
 ## Features
 
 - **API Testing:** Automated tests for all backend endpoints (CRUD operations, validation, error handling).
