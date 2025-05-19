@@ -1,0 +1,9 @@
+pytest==7.4.0
+requests==2.31.0
+selenium==4.11.2
+pytest-html==3.2.0
+pytest-xdist==3.3.1
+allure-pytest==2.13.2
+python-dotenv==1.0.0
+appium-python-client==2.11.1
+pytest-bdd==7.0.1 
