@@ -1,4 +1,4 @@
-# Notes App – Test Automation Framework
+# Notes App 
 
 ## Overview
 
